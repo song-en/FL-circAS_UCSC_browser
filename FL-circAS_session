@@ -72,7 +72,7 @@ trackHubs 195108
 virtMode 0
 virtModeType default
 wgEncodeReg hide
-assumesHub 195108=https://raw.githubusercontent.com/chiangtw/test_UCSC_track_hub/main/FL-circAS_hub/hub.txt 
+assumesHub 195108=https://raw.githubusercontent.com/song-en/FL-circAS_UCSC_browser/main/hub.txt 
 dbSnp153Composite pack
 cpgIslandExt pack
 crossTissueMapsTissueCellType pack
