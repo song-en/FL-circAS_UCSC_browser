@@ -1,0 +1,5 @@
+hub FL_circAS
+shortLabel FL-circAS Track
+longLabel FL-circAS Track
+genomesFile genomes.txt
+email user@example.com
