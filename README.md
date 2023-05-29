@@ -19,7 +19,7 @@ FL-circAS_hub
 For hg38:
 ```
 http://genome.ucsc.edu/cgi-bin/hgTracks?
-hubUrl=https://raw.githubusercontent.com/chiangtw/test_UCSC_track_hub/main/FL-circAS_hub/hub.txt
+hubUrl=https://raw.githubusercontent.com/song-en/FL-circAS_UCSC_browser/main/hub.txt
 &
 db=hg38
 &
@@ -43,7 +43,7 @@ hgt.labelWidth=40
 For mm10:
 ```
 http://genome.ucsc.edu/cgi-bin/hgTracks?
-hubUrl=https://raw.githubusercontent.com/chiangtw/test_UCSC_track_hub/main/FL-circAS_hub/hub.txt
+hubUrl=https://raw.githubusercontent.com/song-en/FL-circAS_UCSC_browser/main/hub.txt
 &
 db=mm10
 &
