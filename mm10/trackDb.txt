@@ -1,0 +1,7 @@
+track isoform_track_mm10
+bigDataUrl FL-circAS_isoforms.mm10.bb
+shortLabel CircRNAs (mm10)
+longLabel CircRNA Isoforms from FL-circAS (mm10)
+type bigBed 12 .
+visibility full
+filterText.name *

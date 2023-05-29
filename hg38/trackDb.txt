@@ -1,7 +1,7 @@
-track isoform_track
-bigDataUrl FL-circAS_isoforms.bb
-shortLabel Isoforms
-longLabel CircRNA Isoforms from FL-circAS
+track isoform_track_hg38
+bigDataUrl FL-circAS_isoforms.hg38.bb
+shortLabel CircRNAs (hg38)
+longLabel CircRNA Isoforms from FL-circAS (hg38)
 type bigBed 12 .
 visibility full
 filterText.name *
